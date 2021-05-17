@@ -76,7 +76,18 @@ After finishing your required elements, you can push your work further. These go
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+
+DOM stands for Document Object Model. It is the interface used to organize/structure documents/objects and how they can be accessed and manipulated.
+
 2. What is an event?
+An event is an action that is triggered by the user or browser on a webpage.
+
 3. What is an event listener?
+An event listener is a function that is triggered by an event.
+
 4. Why would we convert a NodeList into an Array?
+
+Arrays are easier to manipulate with javascript than a Nodelist. Nodelists contain DOM elements, arrays contain objects/data.
+
 5. What is a component?
+A component is a type of function. It uses javascript to create html elements.
